@@ -1,4 +1,4 @@
-# hangingman
+# HangingMan
 simple hanging man with Unity
 
 ![Win](https://user-images.githubusercontent.com/71656626/154004002-e422cfd9-8d49-4273-9343-b75c14e69c3a.PNG)
